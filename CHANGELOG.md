@@ -28,3 +28,13 @@ This is probably not a breaking change, but I marked it as so just in case your 
 [FIX] Mouse coordinates are now correct for a canvas that has a parent that is "position:relative".  (Thanks, cdosborn.)
 
 0.5.5 / 2014-12-15
+
+[NEW] Add Racecar demo.
+
+0.5.2 / 2014-12-01
+
+[FIX] Fix Left Right Space to destroy ALL asteroids in group when one member hit with bullet.
+
+0.5.1 / 2014-12-01
+
+[FIX] Typo in docs.
